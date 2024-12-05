@@ -98,8 +98,8 @@ potElbow = A2                   #Assign Potentiometers to pins on Arduino Uno
 potShoulder = A1                
 portBase = A0
 
-hand = 11
-wrist = 12
-elbow = 13                      #Assign Motors to pins on Servo Driver Board
-shoulder = 14
-base = 15
+hand =11
+wrist =12
+elbow =13                      #Assign Motors to pins on Servo Driver Board
+shoulder =14
+base =15
